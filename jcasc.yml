@@ -3,5 +3,5 @@ uses:
 with:
   command: run
   jenkinsfile: Jenkinsfile
-  pluginstxt: plugins.txt
+  # pluginstxt: plugins.txt
   jcasc: jcasc.yml
